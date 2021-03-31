@@ -1,0 +1,2 @@
+tileAcq: {tileRotate: 0, tileFlipUD: true, tileFlipLR: false}
+hardware: {doResetTrippedPMT: true}

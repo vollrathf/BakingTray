@@ -1,0 +1,9 @@
+SYSTEM:
+  ID: SYSTEM_NAME
+  xySpeed: 25.0
+  cutterSide: 1.0
+  defaultFrontLeft: [0.0, 0.0]
+SLACK:
+  user: '@SYSTEM'
+  hook: []
+SLICER: {approachSpeed: 25.0, vibrateRate: 10.0, postCutDelay: 6.0, postCutVibrate: 3.0}

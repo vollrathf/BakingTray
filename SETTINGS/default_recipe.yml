@@ -1,0 +1,15 @@
+sample:
+  ID: []
+  objectiveName: nikon 16x
+mosaic:
+  sectionStartNum: 1.0
+  numSections: 1.0
+  cuttingSpeed: 0.5
+  cutSize: 20.0
+  sliceThickness: 0.1
+  numOpticalPlanes: 2.0
+  numOverlapZPlanes: 0.0
+  overlapProportion: 0.05
+  sampleSize: {X: 2.0, Y: 2.0}
+  scanmode: 'tiled: auto-ROI'
+  tilesToRemove: -1.0
